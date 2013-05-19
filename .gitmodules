@@ -16,3 +16,6 @@
 [submodule "uaa"]
 	path = uaa
 	url = https://github.com/cloudfoundry/uaa.git
+[submodule "vcap-services"]
+	path = vcap-services
+	url = https://github.com/cloudfoundry/vcap-services.git
