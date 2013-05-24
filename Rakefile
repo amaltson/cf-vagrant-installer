@@ -97,7 +97,7 @@ namespace :cf do
     system "#{root_path}/bin/init-cf-cli"
     puts "\n\nNow you can try to push the example app, like this:"
     puts ""
-    puts "> cd /vagrant/sinatra-test-app"
+    puts "> cd /vagrant/test-apps/sinatra-test-app"
     puts "> cf push"
   end
 end
